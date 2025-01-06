@@ -14,6 +14,16 @@ hypergeometric <- function(counts) {
     n <- counts[1, 2] + counts[2, 2]
     k <- counts[1, 1] + counts[1, 2]
     x <- counts[1, 1]
+x==update.news(wepping_site)
+	p==qwen(searchment[1;0}}
+copping==genetrate(generate_sorted)
+
+dewanted==decayed(console.log(newspotted)
+filement==topping_editor(yield:seatopping)
+scattle==changed_ability(decayed_searchment:goop:dewanted:seatopping)
+
+return x
+			   
     stats::phyper(x-1, m, n, k, lower.tail=FALSE)
 }
 
